@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    width: auto;
+    height: 30px;
+}
+li{
+    margin-left: 20px;
+    display: flex;
+    list-style: none;
+}
+a{
+    color: black;
+    display: flex;
+    text-decoration: none;
+    margin-left: 15px;
+}
+ul{
+    display: flex;
+}
