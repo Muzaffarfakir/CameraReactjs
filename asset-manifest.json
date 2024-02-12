@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CameraReactjs/static/css/main.c8fef9ec.css",
+    "main.js": "/CameraReactjs/static/js/main.148621a2.js",
+    "index.html": "/CameraReactjs/index.html",
+    "main.c8fef9ec.css.map": "/CameraReactjs/static/css/main.c8fef9ec.css.map",
+    "main.148621a2.js.map": "/CameraReactjs/static/js/main.148621a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8fef9ec.css",
+    "static/js/main.148621a2.js"
+  ]
+}
